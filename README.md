@@ -1,6 +1,6 @@
 # Advorix-Data-Analytics-Internship_-Excel-Dashboard-
 Project Title -Choice Task - Excel Dashboard Project
-Project Description- Dynamic EXcel Dashboard for a store's pizza sales consisting of Data cleaning and formatting, basic workings on total and average of the quantity and prices, data compiled in a table format with slicers, pivot tables and charts showcasing quantity sold and total price at which the pizza was sold across months, pizza size, category and name. Column and pie charts to represent the data in the visual format along with an attached word file consisting of summary and analysis report.
+Project Description- Dynamic Excel Dashboard for a store's pizza sales consisting of Data cleaning and formatting, basic workings on total and average of the quantity and prices, data compiled in a table format with slicers, pivot tables and charts showcasing quantity sold and total price at which the pizza was sold across months, pizza size, category and name. Column and pie charts to represent the data in the visual format along with an attached word file consisting of summary and analysis report.
 Table of Contents
 Sheet 1- Pizza Sales Data (Raw data)
 Sheet 2- Table visualisation with Slicers
